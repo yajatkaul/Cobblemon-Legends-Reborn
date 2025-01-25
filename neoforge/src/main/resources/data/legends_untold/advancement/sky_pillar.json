@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:mud_bricks"
+      "id": "minecraft:mud_bricks"
     },
     "title": {
       "text": "Tower of Legend"
@@ -25,7 +25,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "structure": "legends_untold:sky_pillar"
+                "structures": "legends_untold:sky_pillar"
               }
             }
           }
@@ -38,5 +38,8 @@
       "sky_pillar"
     ]
   ],
+  "rewards": {
+    "function": "legends_untold:spawn_rayquaza"
+  },
   "sends_telemetry_event": false
 }

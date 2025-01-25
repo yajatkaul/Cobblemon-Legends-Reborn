@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "cobblemon:psychic_gem"
+      "id": "cobblemon:psychic_gem"
     },
     "title": {
       "text": "Traveling Leaves"
@@ -25,7 +25,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "structure": "legends_untold:psychic_den"
+                "structures": "legends_untold:psychic_den"
               },
               "stepping_on": {
                 "block": {

@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "cobblemon:water_gem"
+      "id": "cobblemon:water_gem"
     },
     "title": {
       "text": "Ancient Seas"
@@ -25,7 +25,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "structure": "legends_untold:water_den"
+                "structures": "legends_untold:water_den"
               },
               "stepping_on": {
                 "block": {

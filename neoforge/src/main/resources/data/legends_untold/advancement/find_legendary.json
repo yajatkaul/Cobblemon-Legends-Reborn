@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "cobblemon:master_ball"
+      "id": "cobblemon:master_ball"
     },
     "title": {
       "text": "Legendary Encounter"
@@ -25,7 +25,7 @@
             "entity": "this",
             "predicate": {
               "location": {
-                "structure": "legends_untold:sky_pillar"
+                "structures": "legends_untold:sky_pillar"
               }
             }
           }
