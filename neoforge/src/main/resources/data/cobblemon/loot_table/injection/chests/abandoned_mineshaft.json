@@ -115,7 +115,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "legends_untold:sets/legendary_items"
+          "value": "legends_untold:sets/legendary_items"
         }
       ],
       "conditions": [
