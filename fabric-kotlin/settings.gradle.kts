@@ -1,4 +1,4 @@
-rootProject.name = "Fabric-Kotlin" //By default, this is how your built jar is called
+rootProject.name = "Cobblemon_Legends_Reborn" //By default, this is how your built jar is called
 
 pluginManagement {
     repositories {

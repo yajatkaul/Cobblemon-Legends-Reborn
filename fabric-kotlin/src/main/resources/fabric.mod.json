@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "id": "cobblemon_fabric_mdk",
+  "id": "cobblemon_legends_reborn",
   "version": "${version}",
-  "name": "Cobblemon Fabric MDK",
-  "description": "A MDK useful for Fabric Development",
+  "name": "Coblemon Legends Untold Reborn",
+  "description": "Adds legendaries to your world not to mention they are very rare some as rare as 3x starters",
   "authors": [
-    "The Cobblemon Team"
+    "YajatKaul"
   ],
   "license": "MIT License",
-  "icon": "assets/example/icon.png",
+  "icon": "assets/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
       {
         "adapter": "kotlin",
-        "value": "com.cobblemon.mdks.fabric.FabricMod"
+        "value": "com.cobblemon.cobblemonlegends.CobblemonLegends"
       }
     ]
   },

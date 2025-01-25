@@ -2,9 +2,7 @@ package com.cobblemon.cobblemonlegends
 
 import net.fabricmc.api.ModInitializer
 
-
-
-object FabricMod : ModInitializer {
+object CobblemonLegends : ModInitializer {
 
     override fun onInitialize() {
 
