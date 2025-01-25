@@ -2,7 +2,13 @@
   "display": {
     "icon": {
       "id": "cobblemon:pokemon_model",
-      "nbt": "{\"species\":\"cobblemon:mew\"}"
+      "count": 1,
+      "components": {
+        "cobblemon:pokemon_item": {
+          "species": "cobblemon:mew",
+          "aspects": []
+        }
+      }
     },
     "title": {
       "text": "Far, Far Away"
