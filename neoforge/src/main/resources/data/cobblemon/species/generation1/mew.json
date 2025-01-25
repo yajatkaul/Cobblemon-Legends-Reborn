@@ -14,9 +14,9 @@
     "special_defence": 100,
     "speed": 100
   },
-  "catchRate": 45,
+  "catchRate": 25,
   "maleRatio": -1,
-  "shoulderMountable": false,
+  "shoulderMountable": true,
   "baseExperienceYield": 300,
   "experienceGroup": "medium_slow",
   "eggCycles": 120,
