@@ -1,1 +1,1 @@
-give @p nether_star{display:{Name:'{"text":"Comet Shard","italic":false}',Lore:['{"text":"Can be used as a nether star in recipes"}']},CustomModelData:1110000} 1
+give @p nether_star[custom_name='{"text":"Comet Shard","italic":false}',lore=['{"text":"Can be used as a nether star in recipes"}'],custom_model_data={strings:['comet_shard']}] 1
