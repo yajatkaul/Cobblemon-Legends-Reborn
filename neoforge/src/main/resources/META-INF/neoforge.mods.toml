@@ -1,0 +1,35 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+#issueTrackerURL = "A valid URL to your issue tracker where people can open bug tickets"
+license = "MIT License"
+
+[[mods]]
+modId = "cobblemon_legends_reborn"
+version = "${version}"
+displayName = "Coblemon Legends Untold Reborn"
+authors = "YajatKaul, TSFlareon"
+description = '''
+Adds legendaries to your world not to mention they are very rare some as rare as 3x starters
+'''
+#logoFile = ""
+
+[[dependencies.cobblemon_legends_reborn]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.cobblemon_legends_reborn]]
+modId = "neoforge"
+mandatory = true
+versionRange = "[21.1.66,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.cobblemon_legends_reborn]]
+modId = "cobblemon"
+mandatory = true
+versionRange = "[1.6.0,)"
+ordering = "AFTER"
+side = "BOTH"

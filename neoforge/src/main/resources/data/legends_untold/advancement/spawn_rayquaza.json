@@ -1,0 +1,67 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:command_block"
+    },
+    "title": {
+      "text": "Sky High"
+    },
+    "description": {
+      "text": "Bring a Jade Orb to the top of Sky Pillar and meet Rayquaza"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "legends_untold:sky_pillar",
+  "criteria": {
+    "sky_pillar": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:weather_check",
+            "raining": false,
+            "thundering": false
+          },
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structure": "legends_untold:sky_pillar",
+                "light": {
+                  "light": 15
+                }
+              },
+              "stepping_on": {
+                "block": {
+                  "blocks": [
+                    "minecraft:andesite"
+                  ]
+                }
+              },
+              "equipment": {
+                "mainhand": {
+                  "items": [
+                    "minecraft:command_block"
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "sky_pillar"
+    ]
+  ],
+  "rewards": {
+    "function": "legends_untold:spawn_rayquaza"
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:repeating_command_block"
+    },
+    "title": {
+      "text": "Mew Was Here"
+    },
+    "description": {
+      "translate": "Find Mew DNA in a Legendary Structure"
+    }
+  },
+  "parent": "legends_untold:find_legendary",
+  "criteria": {
+    "check_inv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:repeating_command_block"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
