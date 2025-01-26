@@ -6,7 +6,7 @@ license = "MIT License"
 [[mods]]
 modId = "cobblemon_legends_reborn"
 version = "${version}"
-displayName = "Coblemon Legends Untold Reborn"
+displayName = "Cobblemon Legends Untold Reborn"
 authors = "YajatKaul, TSFlareon"
 description = '''
 Adds legendaries to your world not to mention they are very rare some as rare as 3x starters
