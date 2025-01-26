@@ -3,6 +3,6 @@
   "yTranslation": 0,
   "yGrowthPoint": 0.625,
   "animations": [
-    "bedrock(mewtwo_fetus, sleep)"
+    "bedrock(mewtwo, sleep)"
   ]
 }

@@ -22,7 +22,7 @@
                 "canSeeSky": true,
                 "biomes": [
                     "#cobblemon:is_sandy",
-                    "#cobblemon:is_savanna",
+                    "biomesoplenty:volcano",
                     "minecraft:desert"
                 ]
             }

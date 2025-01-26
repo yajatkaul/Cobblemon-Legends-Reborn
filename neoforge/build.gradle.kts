@@ -7,7 +7,7 @@ plugins {
 
 
 group = "com.github.yajatkaul"
-version = "1.2"
+version = "1.3"
 
 architectury {
     platformSetupLoomIde()

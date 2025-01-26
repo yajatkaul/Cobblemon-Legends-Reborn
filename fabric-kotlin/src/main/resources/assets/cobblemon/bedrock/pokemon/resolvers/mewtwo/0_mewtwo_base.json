@@ -5,8 +5,8 @@
     {
       "aspects": [],
       "poser": "cobblemon:mewtwo",
-      "model": "cobblemon:mewtwo_fetus.geo",
-      "texture": "cobblemon:textures/fossils/mewtwo.png",
+      "model": "cobblemon:mewtwo.geo",
+      "texture": "cobblemon:textures/pokemon/mewtwo.png",
       "layers": []
     }
   ]
