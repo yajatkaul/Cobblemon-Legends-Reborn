@@ -4,10 +4,12 @@
       "id": "cobblemon:master_ball"
     },
     "title": {
-      "text": "Legendary Encounter"
+      "translate": "advancement.legends_untold.find_legendary.title",
+      "fallback": "Legendary Encounter"
     },
     "description": {
-      "text": "Find any Legendary Structure"
+      "translate": "advancement.legends_untold.find_legendary.description",
+      "fallback": "Find any Legendary Structure"
     },
     "frame": "task",
     "show_toast": true,

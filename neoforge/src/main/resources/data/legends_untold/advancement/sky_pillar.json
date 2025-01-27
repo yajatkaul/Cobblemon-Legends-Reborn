@@ -4,10 +4,12 @@
       "id": "minecraft:mud_bricks"
     },
     "title": {
-      "text": "Tower of Legend"
+      "translate": "advancement.legends_untold.sky_pillar.title",
+      "fallback": "Tower of Legend"
     },
     "description": {
-      "text": "Find the Sky Pillar"
+      "translate": "advancement.legends_untold.sky_pillar.description",
+      "fallback": "Find the Sky Pillar"
     },
     "frame": "task",
     "show_toast": true,

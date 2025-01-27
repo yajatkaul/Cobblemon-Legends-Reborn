@@ -1,4 +1,31 @@
 {
   "block.minecraft.repeating_command_block": "Mew DNA",
-  "block.minecraft.command_block": "Jade Orb"
+  "block.minecraft.command_block": "Jade Orb",
+
+  "advancement.legends_untold.all_birds.title" : "Bird Mastery",
+  "advancement.legends_untold.all_birds.description": "Catch all 3 legendary birds and have them in your party",
+
+  "advancement.legends_untold.find_legendary.title": "Legendary Encounter",
+  "advancement.legends_untold.find_legendary.description": "Find any Legendary Structure",
+
+  "advancement.legends_untold.ironleaves.title": "Traveling Leaves",
+  "advancement.legends_untold.ironleaves.description": "Encounter Iron Leaves in a Tera Den",
+
+  "advancement.legends_untold.mew_ruins.title": "Far, Far Away",
+  "advancement.legends_untold.mew_ruins.description": "Find the Faraway Ruins",
+
+  "advancement.legends_untold.obtain_mew_dna.title": "Mew Was Here",
+  "advancement.legends_untold.obtain_mew_dna.description": "Find Mew DNA in a Legendary Structure",
+
+  "advancement.legends_untold.sky_pillar.title": "Tower of Legend",
+  "advancement.legends_untold.sky_pillar.description": "Find the Sky Pillar",
+
+  "advancement.legends_untold.spawn_rayquaza.title": "Sky High",
+  "advancement.legends_untold.spawn_rayquaza.description": "Bring a Jade Orb to the top of Sky Pillar and meet Rayquaza",
+
+  "advancement.legends_untold.walkingwake.title": "Ancient Seas",
+  "advancement.legends_untold.walkingwake.description": "Encounter Walking Wake in a Tera Den",
+
+  "advancement.legends_untold.xerneas.title": "Primeval Roots",
+  "advancement.legends_untold.xerneas.description": "Find the Tree of Life"
 }

@@ -11,10 +11,12 @@
       }
     },
     "title": {
-      "text": "Far, Far Away"
+      "translate": "advancement.legends_untold.mew_ruins.title",
+      "fallback": "Far, Far Away"
     },
     "description": {
-      "text": "Find the Faraway Ruins"
+      "translate": "advancement.legends_untold.mew_ruins.description",
+      "fallback": "Find the Faraway Ruins"
     },
     "frame": "task",
     "show_toast": true,

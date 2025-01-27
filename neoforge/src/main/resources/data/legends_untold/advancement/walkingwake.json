@@ -4,10 +4,12 @@
       "id": "cobblemon:water_gem"
     },
     "title": {
-      "text": "Ancient Seas"
+      "translate": "advancement.legends_untold.walkingwake.title",
+      "fallback": "Ancient Seas"
     },
     "description": {
-      "text": "Encounter Walking Wake in a Tera Den"
+      "translate": "advancement.legends_untold.walkingwake.description",
+      "fallback": "Encounter Walking Wake in a Tera Den"
     },
     "frame": "task",
     "show_toast": true,
