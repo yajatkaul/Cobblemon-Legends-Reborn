@@ -38,8 +38,5 @@
       "sky_pillar"
     ]
   ],
-  "rewards": {
-    "function": "legends_untold:spawn_rayquaza"
-  },
   "sends_telemetry_event": false
 }
