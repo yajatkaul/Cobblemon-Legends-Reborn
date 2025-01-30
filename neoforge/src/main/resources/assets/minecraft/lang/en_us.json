@@ -2,7 +2,10 @@
   "block.minecraft.repeating_command_block": "Mew DNA",
   "block.minecraft.command_block": "Jade Orb",
 
-  "advancement.legends_untold.all_birds.title" : "Bird Mastery",
+  "item.minecraft.repeating_command_block": "Mew DNA",
+  "item.minecraft.command_block": "Jade Orb",
+
+  "advancement.legends_untold.all_birds.title": "Bird Mastery",
   "advancement.legends_untold.all_birds.description": "Catch all 3 legendary birds and have them in your party",
 
   "advancement.legends_untold.find_legendary.title": "Legendary Encounter",
