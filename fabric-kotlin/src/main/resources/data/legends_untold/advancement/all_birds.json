@@ -4,10 +4,12 @@
       "id": "cobblemon:star_sweet"
     },
     "title": {
-      "text": "Bird Mastery"
+      "translate": "advancement.legends_untold.all_birds.title",
+      "fallback": "Bird Mastery"
     },
     "description": {
-      "text": "Catch all 3 legendary birds and have them in your party"
+      "translate": "advancement.legends_untold.all_birds.description",
+      "fallback": "Catch all 3 legendary birds and have them in your party"
     },
     "frame": "task",
     "show_toast": true,

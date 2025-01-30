@@ -4,10 +4,12 @@
       "id": "minecraft:repeating_command_block"
     },
     "title": {
-      "text": "Mew Was Here"
+      "translate": "advancement.legends_untold.obtain_mew_dna.title",
+      "fallback": "Mew Was Here"
     },
     "description": {
-      "translate": "Find Mew DNA in a Legendary Structure"
+      "translate": "advancement.legends_untold.obtain_mew_dna.description",
+      "fallback": "Find Mew DNA in a Legendary Structure"
     }
   },
   "parent": "legends_untold:find_legendary",

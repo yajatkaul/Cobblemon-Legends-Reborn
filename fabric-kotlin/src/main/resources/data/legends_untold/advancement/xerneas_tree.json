@@ -4,10 +4,12 @@
       "id": "minecraft:jungle_sapling"
     },
     "title": {
-      "text": "Primeval Roots"
+      "translate": "advancement.legends_untold.xerneas.title",
+      "fallback": "Primeval Roots"
     },
     "description": {
-      "text": "Find the Tree of Life"
+      "translate": "advancement.legends_untold.xerneas.description",
+      "fallback": "Find the Tree of Life"
     },
     "frame": "task",
     "show_toast": true,

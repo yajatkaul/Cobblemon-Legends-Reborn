@@ -4,10 +4,12 @@
       "id": "minecraft:command_block"
     },
     "title": {
-      "text": "Sky High"
+      "translate": "advancement.legends_untold.spawn_rayquaza.title",
+      "fallback": "Sky High"
     },
     "description": {
-      "text": "Bring a Jade Orb to the top of Sky Pillar and meet Rayquaza"
+      "translate": "advancement.legends_untold.spawn_rayquaza.description",
+      "fallback": "Bring a Jade Orb to the top of Sky Pillar and meet Rayquaza"
     },
     "frame": "task",
     "show_toast": true,
