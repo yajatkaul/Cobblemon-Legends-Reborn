@@ -13,7 +13,7 @@
             {
               "function": "minecraft:exploration_map",
               "destination": "legends_untold:mew_ruins",
-              "decoration": "red_x",
+              "decoration": "minecraft:red_marker",
               "zoom": 1,
               "skip_existing_chunks": false
             },
@@ -33,7 +33,7 @@
             {
               "function": "minecraft:exploration_map",
               "destination": "legends_untold:sky_pillar",
-              "decoration": "red_x",
+              "decoration": "minecraft:red_marker",
               "zoom": 1,
               "skip_existing_chunks": false
             },
@@ -53,7 +53,7 @@
             {
               "function": "minecraft:exploration_map",
               "destination": "legends_untold:xerneas_tree",
-              "decoration": "red_x",
+              "decoration": "minecraft:red_marker",
               "zoom": 1,
               "skip_existing_chunks": false
             },
@@ -73,7 +73,7 @@
             {
               "function": "minecraft:exploration_map",
               "destination": "legends_untold:tera_den",
-              "decoration": "red_x",
+              "decoration": "minecraft:red_marker",
               "zoom": 1,
               "skip_existing_chunks": false
             },
